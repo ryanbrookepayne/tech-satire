@@ -1,2 +1,3 @@
-# tech-satire
-Funny thoughts on technology
+# Tech Satire
+
+My funny thoughts on technology.
