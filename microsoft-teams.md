@@ -33,7 +33,7 @@ Microsoft Teams is engineered to drastically increase your heart rate and blood 
 
 ---
 
-In all seriousness, you should check out the following articles by the fine folks at Basecamp. You just might reconsider where and how chat fits into your communication toolbox.
+In all seriousness, you should check out the following articles. You just might reconsider where and how chat fits into your communication toolbox.
 
 - [The Basecamp Guide to Internal Communication][1]
 - [Group Chat: The Best Way to Totally Stress Out Your Team][2]
