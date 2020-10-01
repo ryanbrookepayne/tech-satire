@@ -1,3 +1,3 @@
 # 🤣 Tech Satire
 
-Funny thoughts on technology
+Funny thoughts on technology.
