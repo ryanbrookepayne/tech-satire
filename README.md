@@ -7,4 +7,5 @@ Funny thoughts on technology.
 - [🌊 Microsoft Teams](./microsoft-teams.md)
 - [👪 Parental Control Predicates](./parental-control-predicates.md)
 - [🔔 Push Notifications](./push-notifications.md)
+- [🗂 Sharepoint](./sharepoint.md)
 - [🦃 Turkey in the Straw Predicates](./turkey-in-the-straw-predicates.md)
