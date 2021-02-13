@@ -26,10 +26,3 @@ Are you overwhelmed by the fast and relevant search results that Google provides
 Create a new page in Sharepoint and watch it disappear before your very eyes 👀. The best part is, you and all your co-workers futile search efforts will never suceed in finding it. Now you'll never have to organize documents again!
 
 > Signup for Sharepoint today—where knowledge goes to die!
-
----
-
-**I'm a troll...I know.** 😜 But I couldn't resist. Check out my other troll projects:
-
-- [gawainjs](https://github.com/ryanbrookepayne/gawainjs)
-- [microsoft-teams](https://github.com/ryanbrookepayne/microsoft-teams)
