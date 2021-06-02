@@ -7,7 +7,7 @@ The best place to lose documents.
 - Are you looking to drastically expand [knowledge hiding and hoarding](https://hbr.org/2019/07/why-employees-dont-share-knowledge-with-each-other) at your company? 👍
 - Dream of the day when you can fully and completely inhibit [knowledge scaling](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)? 👍
 
-Well my friend, that bright day 🌞  has come!
+Well my friend, that bright day 🌞 has come!
 
 > Sharepoint, where knowledge goes to die!
 
